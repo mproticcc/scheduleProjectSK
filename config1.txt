@@ -1,0 +1,9 @@
+-1 Datum d.M.yyyy HH:mm
+6 Pocetak start
+7 Kraj end
+8 Ucionica place
+0 Predmet additional
+1 Tip additional
+2 Nastavnik additional
+3 Grupe additional
+4 Dan day
